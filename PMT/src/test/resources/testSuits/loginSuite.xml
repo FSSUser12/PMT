@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="loginSuite">
+	<test name="loginTest">
+		<classes>
+			<class name="login.LoginPage" />
+			<class name="login.ForgotPwdPage" />
+		</classes>
+	</test>
+</suite>
